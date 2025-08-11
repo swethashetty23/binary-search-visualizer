@@ -1,6 +1,4 @@
 # Binary Search Visualizer
-
-# Binary Search Visualizer
 An interactive web tool that demonstrates the binary search algorithm step-by-step with visual highlights, making it easier to understand how the search narrows down to the target value.
 
 
